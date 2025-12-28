@@ -3,12 +3,10 @@ title: Home
 layout: default
 ---
 
-Dixi Wang
+# Dixi Wang
 
-_Postdoctoral Researcher in Mathematics_  
-Interests: scientific computing, learning theory for LLM, optimal transport, PDEs, computational mean-field games...
+_Postdoctoral Researcher in Mathematics_
 
-- **Email:** wang6721 at purdue dot edu  
-
-
-Latest: preprint on .
+- **CV:** [CV](cv.md)
+- **Email:** you@school.edu
+- **GitHub:** https://github.com/dixiwang819
