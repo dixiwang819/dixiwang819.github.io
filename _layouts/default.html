@@ -13,12 +13,14 @@
   <header>
     <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
     <nav>
-      {% for p in site.pages %}
-        {% if site.header_pages contains p.path %}
-          <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-        {% endif %}
-      {% endfor %}
+  {% for path in site.header_pages %}
+    {% assign p = site.pages | where: "path", path | first %}
+    {% if p %}
+      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    {% endif %}
+  {% endfor %}
     </nav>
+
 
   </header>
   <main>{{ content }}</main>
