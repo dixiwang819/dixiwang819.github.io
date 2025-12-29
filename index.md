@@ -3,9 +3,10 @@ title: Home
 layout: default
 ---
 
+<img class="profile-photo" src="{{ '/assets/img/Bowell.jpeg' | relative_url }}" >
+
 # Dixi Wang
 
-<img class="profile-photo" src="{{ '/assets/img/Bowell.jpeg' | relative_url }}" >
 
 _Visiting Assistant Professor in Mathematics_ 
 
