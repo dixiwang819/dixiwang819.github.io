@@ -6,6 +6,7 @@ layout: default
 # Dixi Wang
 
 _Postdoctoral Researcher in Mathematics_ 
+
 Interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
 
 - **CV:** [cv.pdf](cv.pdf)  
