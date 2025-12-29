@@ -5,4 +5,4 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
   input: GFM
-header_pages: [cv.md, teaching.md, publications.md]
+header_pages: [teaching.md, publications.md]
