@@ -2,7 +2,7 @@
 title: Home
 layout: default
 ---
-<img class="profile-photo" src="{{ '/assets/img/office_img.jpg' | relative_url }}" alt="Dixi Wang">
+<img class="profile-photo" src="{{ '/assets/img/IMG_0556.jpg' | relative_url }}" alt="Dixi Wang">
 
 # Dixi Wang
 
