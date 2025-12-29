@@ -5,9 +5,10 @@ layout: default
 
 # Dixi Wang
 
+<img class="profile-photo" src="{{ '/assets/img/Bowell.jpeg' | relative_url }}" >
+
 _Visiting Assistant Professor in Mathematics_ 
 
-<img class="profile-photo" src="{{ '/assets/img/Bowell.jpeg' | relative_url }}" >
 
 Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
  
