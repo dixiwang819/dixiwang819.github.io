@@ -25,6 +25,6 @@ Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-fiel
   </div>
 
   <div class="home-right">
-    <img class="profile-photo" src="{{ '/assets/img/office_img.jpg' | relative_url }}" alt="Dixi Wang">
+    <img class="profile-photo" src="{{ '/assets/img/office_img.jpg' | relative_url }}" >
   </div>
 </div>
