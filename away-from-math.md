@@ -1,4 +1,6 @@
 ---
-title: $\varepsilon$-Away from Math
+title: ε-Away from Math
 layout: default
 ---
+
+
