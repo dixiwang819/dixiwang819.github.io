@@ -2,8 +2,7 @@
 title: Home
 layout: default
 ---
-<div class="home-row" markdown="1">
-  <div class="home-left" markdown="1">
+<img class="profile-photo" src="{{ '/assets/img/office_img.jpg' | relative_url }}" alt="Dixi Wang">
 
 # Dixi Wang
 
@@ -22,9 +21,3 @@ Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-fiel
 - minisymposium (Oct 2025).
 
 
-  </div>
-
-  <div class="home-right">
-    <img class="profile-photo" src="{{ '/assets/img/office_img.jpg' | relative_url }}" >
-  </div>
-</div>
