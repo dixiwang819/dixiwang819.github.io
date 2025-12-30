@@ -17,7 +17,7 @@ Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-fiel
 - **Email:** wang6721 at purdue dot edu  
 - **CV:** [cv.pdf](cv.pdf)  
 
-**Spring 26 MA30300 students:**  [syllabus](syllabus.pdf),  [course calendar](calendar.pdf),  [handwritten homework](handwritten.pdf).
+**Spring 26 MA30300 students:**  [syllabus](MA303_syllabus.pdf),  [course calendar](calendar.pdf),  [handwritten homework](handwritten.pdf).
 
 ### Latest: 
 - preprint on  (Dec 2025).
