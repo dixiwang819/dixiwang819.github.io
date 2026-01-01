@@ -27,3 +27,7 @@ Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-fiel
 - minisymposium on "Approximation Theory and its Applications in Scientific Machine Learning," at SIAM Central States Section Meeting (Oct 2025).
 - PDE seminar, Purdue University (Sept 2024).
 - Workshop on Theory and Applications for Optimal Control and Generative Models, Purdue University (Aug 2024).
+- PDE seminar, The Chinese University of Hong Kong (June 2023).
+- Workshop on Nonlinear PDEs: Stability Analysis and Multiscale Applications, University
+of Pittsburgh (April 2023).
+
