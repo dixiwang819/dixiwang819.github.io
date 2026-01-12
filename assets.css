@@ -53,3 +53,24 @@ code,kbd,pre{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospac
   clear:both;
 }
 
+/* Masonry-style gallery */
+.gallery-grid{
+  columns: 3 220px;      /* up to 3 columns, min column width ~220px */
+  column-gap: 14px;
+  margin-top: 16px;
+}
+
+.gallery-item{
+  break-inside: avoid;   /* prevents images from splitting across columns */
+  margin: 0 0 14px;
+  display:block;
+  border-radius: 14px;
+  overflow:hidden;
+  text-decoration: none;
+}
+
+.gallery-item img{
+  width:100%;
+  height:auto;
+  display:block;
+}
