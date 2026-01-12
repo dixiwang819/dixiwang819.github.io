@@ -53,26 +53,30 @@ code,kbd,pre{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospac
   clear:both;
 }
 
-/* Masonry-style gallery */
+/* Masonry gallery container */
 .gallery-grid{
-  columns: 3 220px;      /* up to 3 columns, min column width ~220px */
-  column-gap: 14px;
-  margin-top: 16px;
+  max-width: 980px;   /* prevents super-wide huge tiles on big screens */
+  margin: 16px auto 0;
+  columns: 4 170px;   /* more columns + smaller min column width */
+  column-gap: 12px;
 }
 
+/* Each tile */
 .gallery-item{
-  break-inside: avoid;   /* prevents images from splitting across columns */
-  margin: 0 0 14px;
-  display:block;
+  break-inside: avoid;
+  display: block;
+  margin: 0 0 12px;
   border-radius: 14px;
-  overflow:hidden;
+  overflow: hidden;
   text-decoration: none;
 }
 
+/* The image itself */
 .gallery-item img{
-  width:100%;
-  height:auto;
-  display:block;
+  width: 100%;
+  height: auto;
+  display: block;
 }
+
 
 
