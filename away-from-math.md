@@ -4,7 +4,7 @@ layout: default
 permalink: /gallery/
 ---
 
-If you can't find me in office, I am enjoying nature.
+If you can't find me in office, I'm enjoying nature.
 
 <div class="gallery-grid">
   {% assign pics = site.static_files | where_exp: "f", "f.path contains '/assets/gallery/'" %}
