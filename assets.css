@@ -53,15 +53,16 @@ code,kbd,pre{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospac
   clear:both;
 }
 
-/* Masonry gallery container */
+/* Masonry-style gallery */
 .gallery-grid{
-  max-width: 980px;   /* prevents super-wide huge tiles on big screens */
-  margin: 16px auto 0;
-  columns: 4 170px;   /* more columns + smaller min column width */
+  max-width: 900px;        /* cap the gallery width */
+  margin: 16px auto 0;     /* center it */
+  padding: 0 12px;         /* a little breathing room */
+
+  columns: 5 150px;        /* more columns + smaller min width */
   column-gap: 12px;
 }
 
-/* Each tile */
 .gallery-item{
   break-inside: avoid;
   display: block;
@@ -71,12 +72,10 @@ code,kbd,pre{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospac
   text-decoration: none;
 }
 
-/* The image itself */
 .gallery-item img{
   width: 100%;
   height: auto;
   display: block;
 }
-
 
 
