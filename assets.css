@@ -74,3 +74,5 @@ code,kbd,pre{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospac
   height:auto;
   display:block;
 }
+
+.gallery-grid { outline: 4px solid red; }
