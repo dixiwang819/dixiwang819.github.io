@@ -19,7 +19,7 @@ Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-fiel
 
 **Info for Spring26 MA30300 students:**  [lecture notes]({{ '/lecture-notes/' | relative_url }}),  [course calendar with handwritten homework](MA303_calendar.pdf).
 ### Latest: 
-- preprint on  (Dec 2025).
+- preprint: [In-Context Operator Learning on the Space of Probability Measures (Jan 2026)](https://arxiv.org/abs/2601.09979).
 
 
 ### Presentations:
