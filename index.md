@@ -15,7 +15,7 @@ _working with Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/)_.
 Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
 
 - **Email:** wang6721 at purdue dot edu  
-- **CV:** [cv.pdf](cv.pdf)  
+- **CV:** [Dixi_Wang_resume](Dixi_Wang_resume.pdf)  
 
 **Info for Spring26 MA30300 students:**  [lecture notes]({{ '/lecture-notes/' | relative_url }}),  [course calendar with handwritten homework](MA303_calendar.pdf).
 ### Latest: 
