@@ -3,6 +3,6 @@ title: CV
 layout: default
 ---
 
-[Download my CV (PDF)](cv.pdf)
+[Download my CV (PDF)](assets/Dixi_Wang_CV.pdf)
 
 - Education, positions, honors, grants, service.
