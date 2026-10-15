@@ -1,5 +1,11 @@
 title: Dixi Wang
-description: Visiting Assistant Professor
+description: >-
+  Dixi Wang is a Golomb Visiting Assistant Professor of Mathematics
+  at Purdue University. Her research focuses on scientific computing,
+  generative AI, and deep learning theory.
+
+url: "https://dixiwang819.github.io"
+baseurl: ""
 theme: minima
 markdown: kramdown
 kramdown:
