@@ -1,7 +1,10 @@
+
 ---
-title: Home
 layout: default
+title: "Dixi Wang | Mathematics & AI"
+description: "Academic homepage of Dixi Wang, Golomb Visiting Assistant Professor of Mathematics at Purdue University. Research in scientific computing, generative AI and deep learning theory."
 ---
+
 
 <img class="profile-photo" src="{{ '/assets/img/Bowell.jpeg' | relative_url }}" >
 
