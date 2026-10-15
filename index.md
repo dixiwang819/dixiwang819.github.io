@@ -1,10 +1,8 @@
 
 ---
 layout: default
-title: "Dixi Wang"
-description: "Academic homepage of Dixi Wang, Golomb Visiting Assistant Professor of Mathematics at Purdue University. Research in scientific computing, generative AI and deep learning theory."
+title: Home
 ---
-
 
 <img class="profile-photo" src="{{ '/assets/img/Bowell.jpeg' | relative_url }}" >
 
@@ -15,7 +13,7 @@ _I am currently a Golomb Visiting Assistant Professor at Purdue University_
 _working with Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/)_.
 
 
-Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-field games...
+Research Interests: scientific computing, learning theory for deep learning, generative AI, PDEs, optimal control...
 
 - **Email:** wang6721 at purdue dot edu  
 - **CV:** [Dixi_Wang_resume](Dixi_Wang_resume.pdf)  
@@ -26,6 +24,7 @@ Research Interests: learning theory for LLMs, optimal transport, PDEs, mean-fiel
 
 
 ### Presentations:
+- Applied math seminar, Georgia Institute of Technology (Apr 2026)
 - minisymposium on “Foundation Models: From Theory to Practice” at the SIAM New York–New Jersey–Pennsylvania Section Meeting (Oct 2025).
 - minisymposium on "Approximation Theory and its Applications in Scientific Machine Learning," at SIAM Central States Section Meeting (Oct 2025).
 - PDE seminar, Purdue University (Sept 2024).
