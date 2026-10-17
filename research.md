@@ -6,7 +6,7 @@ layout: default
 <h1>Research Projects</h1>
 
 <p>
-My current interest is ** learning in infinite dimension **. I 
+My current interest mainly focuses on deep learning for manifold-structured data, control-based algorithms and building connections between computational mean field games and machine learning theories.
 </p>
 
 <!-- PROJECT 1 -->
@@ -26,9 +26,8 @@ My current interest is ** learning in infinite dimension **. I
   </p>
 
   <p style="margin-bottom:0;">
-    <a href="https://arxiv.org/" target="_blank">Paper</a>
-    &nbsp; | &nbsp;
-    <a href="https://github.com/" target="_blank">Code</a>
+    <a href="https://arxiv.org/abs/2601.09979" target="_blank">Paper</a>
+    &nbsp;
   </p>
 
 </div>
