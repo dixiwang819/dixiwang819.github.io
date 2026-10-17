@@ -23,6 +23,17 @@ layout: default
 <p>
 My current interest mainly focuses on deep learning for manifold-structured data, control-based algorithms and building connections between computational mean field games and machine learning theories.
 </p>
+<!-- Project 1 -->
+<div class="project-card"
+     style="background-image: url('assets/From Gaussian to Dog Manifold.png');">
+
+  <div class="project-content">
+    <h3>In-Context Learning on the Space of Probability Measures</h3>
+    <p> We formulate optimal transport as an in-context operator-learning problem. We train a single solution operator that maps a pair of probability distributions to their optimal transport map. Given only a small number of samples from a previously unseen source--target pair as context, the model can infer the corresponding transport map without gradient updates.</p>
+    <a href="https://arxiv.org/abs/2601.09979">Paper</a>
+  </div>
+
+</div>
 
 <!-- PROJECT 1 -->
 <div style="border:1px solid #ddd; border-radius:10px;
