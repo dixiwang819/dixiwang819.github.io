@@ -57,10 +57,10 @@ My current interest mainly focuses on deep learning for manifold-structured data
 <div class="project-card">
 
   <div class="project-text">
-    <h3>Generative Modeling</h3>
+    <h3>In-Context Learning on the Space of Probability Measures</h3>
 
   <p>
-     We formulate optimal transport as an in-context operator-learning problem. We train a single solution operator that maps a pair of probability distributions to their optimal transport map. Given only a small number of samples from a previously unseen source--target pair as context, the model can infer the corresponding transport map without gradient updates.
+     We formulate optimal transport as an in-context operator-learning problem. We train a single solution operator that maps a pair of probability distributions to their optimal transport map. Given only a small number of samples from a previously unseen source--target pair as context, the model can infer the corresponding transport map without gradient updates. 
   </p>
 
   <p>
@@ -76,61 +76,26 @@ My current interest mainly focuses on deep learning for manifold-structured data
 </div>
 
 
-<!-- Project 1 -->
-<div class="project-card"
-     style="background-image: url('assets/From Gaussian to Dog Manifold.png');">
+<!-- Project 2 -->
+<div class="project-card">
 
-  <div class="project-content">
-    <h3>In-Context Learning on the Space of Probability Measures</h3>
-    <p> We formulate optimal transport as an in-context operator-learning problem. We train a single solution operator that maps a pair of probability distributions to their optimal transport map. Given only a small number of samples from a previously unseen source--target pair as context, the model can infer the corresponding transport map without gradient updates.</p>
-    <a href="https://arxiv.org/abs/2601.09979">Paper</a>
+  <div class="project-text">
+    <h3>Training Dynamics and Control-based Training Algorithm for Transformer</h3>
+
+  <p>
+      We propose an auxiliary-control algorithm based on the Pontryagin’s maximum principle for training a Transformer architecture. 
+  </p>
+
+    <p>
+      <a href="YOUR_PAPER_URL">Paper</a>
+    </p>
+  </div>
+
+  <div class="project-image">
+    <img src="/assets/training.png"
+         alt="Optimal transport illustration">
   </div>
 
 </div>
-
-<!-- PROJECT 1 -->
-<div style="border:1px solid #ddd; border-radius:10px;
-            padding:20px; margin:22px 0;">
-
-  <h3 style="margin-top:0;">
-    In-Context Learning on the Space of Probability Measures
-  </h3>
-
-  <p style="color:#666; font-size:14px;">
-    Dixi Wang, Frank Cole, Yineng Chen, Yulong Lu, Rongjie Lai | 2026
-  </p>
-
-  <p>
-    We formulate optimal transport as an in-context operator-learning problem. We train a single solution operator that maps a pair of probability distributions to their optimal transport map. Given only a small number of samples from a previously unseen source--target pair as context, the model can infer the corresponding transport map without gradient updates.
-  </p>
-
-  <p style="margin-bottom:0;">
-    <a href="https://arxiv.org/abs/2601.09979" target="_blank">Paper</a>
-    &nbsp;
-  </p>
-
-</div>
-
-<!-- PROJECT 2 -->
-<div style="border:1px solid #ddd; border-radius:10px;
-            padding:20px; margin:22px 0;">
-
-  <h3 style="margin-top:0;">
-    Training Dynamics of Attention Networks
-  </h3>
-
-  <p style="color:#666; font-size:14px;">
-    Dixi Wang, Yuan Gao, Rongjie Lai | 2026
-  </p>
-
-  <p>
-    Write the description of your second project here.
-  </p>
-
-  <p style="margin-bottom:0;">
-    <a href="https://arxiv.org/" target="_blank">Paper</a>
-    &nbsp; | &nbsp;
-    <a href="https://github.com/" target="_blank">Code</a>
-  </p>
 
 </div>
