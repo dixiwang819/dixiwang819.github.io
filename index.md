@@ -15,7 +15,7 @@ _working with Prof. [Rongjie Lai](https://sites.google.com/view/rongjielai/)_.
 Research Interests: scientific computing, learning theory for deep learning, generative AI, PDEs, optimal control...
 
 - **Email:** wang6721 at purdue dot edu  
-- **CV:** [Dixi_Wang_resume](Dixi_Wang_resume.pdf)  
+- **CV:** [Dixi_Wang_resume](assets/Dixi_Wang_resume.pdf)  
 
 **Info for Spring26 MA30300 students:**  [lecture notes]({{ '/lecture-notes/' | relative_url }}),  [course calendar with handwritten homework](MA303_calendar.pdf).
 ### Latest: 
