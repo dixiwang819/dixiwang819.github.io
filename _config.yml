@@ -8,4 +8,4 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
   input: GFM
-header_pages: [teaching.md, research.md, away-from-math.md]
+header_pages: [research.md, teaching.md, away-from-math.md]
