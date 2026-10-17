@@ -6,8 +6,7 @@ layout: default
 <h1>Research Projects</h1>
 
 <p>
-My research focuses on machine learning, optimal transport,
-generative models, and mathematical analysis of neural networks.
+My current interest is ** learning in infinite dimension **. I 
 </p>
 
 <!-- PROJECT 1 -->
@@ -15,17 +14,15 @@ generative models, and mathematical analysis of neural networks.
             padding:20px; margin:22px 0;">
 
   <h3 style="margin-top:0;">
-    In-Context Learning for Optimal Transport
+    In-Context Learning on the Space of Probability Measures
   </h3>
 
   <p style="color:#666; font-size:14px;">
-    Dixi Wang, Coauthors | 2026
+    Dixi Wang, Frank Cole, Yineng Chen, Yulong Lu, Rongjie Lai | 2026
   </p>
 
   <p>
-    Write a short description of your project here.
-    Explain the research problem, your approach,
-    and the main contributions.
+    We formulate optimal transport as an in-context operator-learning problem. We train a single solution operator that maps a pair of probability distributions to their optimal transport map. Given only a small number of samples from a previously unseen source--target pair as context, the model can infer the corresponding transport map without gradient updates.
   </p>
 
   <p style="margin-bottom:0;">
@@ -45,7 +42,7 @@ generative models, and mathematical analysis of neural networks.
   </h3>
 
   <p style="color:#666; font-size:14px;">
-    Dixi Wang, Coauthors | 2026
+    Dixi Wang, Yuan Gao, Rongjie Lai | 2026
   </p>
 
   <p>
