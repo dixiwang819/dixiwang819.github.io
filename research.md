@@ -4,17 +4,46 @@ layout: default
 ---
 <style>
 .project-card {
+  display: flex;
+  align-items: center;
+  gap: 24px;
   border: 1px solid #ddd;
   border-radius: 12px;
+  padding: 22px;
   margin: 24px 0;
-  overflow: hidden;
-  background-size: cover;
-  background-position: center;
 }
 
-.project-content {
-  background: rgba(255, 255, 255, 0.85);
-  padding: 24px;
+.project-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.project-image {
+  flex: 0 0 35%;
+}
+
+.project-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+.project-text h3 {
+  margin-top: 0;
+}
+
+/* Mobile screens */
+@media (max-width: 600px) {
+  .project-card {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .project-image {
+    flex: auto;
+    width: 100%;
+  }
 }
 </style>
 
@@ -23,6 +52,30 @@ layout: default
 <p>
 My current interest mainly focuses on deep learning for manifold-structured data, control-based algorithms and building connections between computational mean field games and machine learning theories.
 </p>
+
+<!-- Project 1 -->
+<div class="project-card">
+
+  <div class="project-text">
+    <h3>Generative Modeling</h3>
+
+  <p>
+     We formulate optimal transport as an in-context operator-learning problem. We train a single solution operator that maps a pair of probability distributions to their optimal transport map. Given only a small number of samples from a previously unseen source--target pair as context, the model can infer the corresponding transport map without gradient updates.
+  </p>
+
+  <p>
+      <a href="https://arxiv.org/abs/2601.09979">Paper</a>
+  </p>
+  </div>
+
+  <div class="project-image">
+    <img src="assets/From Gaussian to Dog Manifold.png"
+         alt="Generative modeling illustration">
+  </div>
+
+</div>
+
+
 <!-- Project 1 -->
 <div class="project-card"
      style="background-image: url('assets/From Gaussian to Dog Manifold.png');">
