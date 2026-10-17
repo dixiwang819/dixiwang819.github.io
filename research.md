@@ -19,7 +19,7 @@ layout: default
 }
 
 .project-image {
-  flex: 0 0 35%;
+  flex: 0 0 40%;
 }
 
 .project-image img {
