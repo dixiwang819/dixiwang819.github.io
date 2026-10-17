@@ -3,6 +3,10 @@ title: Research
 layout: default
 ---
 <style>
+/* Widen the research page */
+.wrapper {
+  max-width: 1200px !important;
+}
 .project-card {
   display: flex;
   align-items: center;
@@ -19,7 +23,7 @@ layout: default
 }
 
 .project-image {
-  flex: 0 0 40%;
+  flex: 0 0 45%;
 }
 
 .project-image img {
