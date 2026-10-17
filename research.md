@@ -2,6 +2,21 @@
 title: Research
 layout: default
 ---
+<style>
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  margin: 24px 0;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+}
+
+.project-content {
+  background: rgba(255, 255, 255, 0.85);
+  padding: 24px;
+}
+</style>
 
 <h1>Research Projects</h1>
 
